@@ -1,17 +1,13 @@
 $(document).ready(function () {
 
-    /* ==========================
-       MOBILE MENU
-    ========================== */
+
 
     $(".menu-btn").click(function () {
         $(".nav-left").slideToggle();
         $(".nav-right").slideToggle();
     });
 
-    /* ==========================
-       TOP BAR SLIDER
-    ========================== */
+
 
     $(".topbar-slider").slick({
         dots: false,
@@ -26,9 +22,6 @@ $(document).ready(function () {
         speed: 600
     });
 
-    /* ==========================
-       HERO SLIDER
-    ========================== */
 
     $(".hero-slider").slick({
         slide: ".hero-slide",
@@ -45,9 +38,7 @@ $(document).ready(function () {
         nextArrow: $(".hero-next")
     });
 
-    /* ==========================
-       FEATURED PRODUCTS
-    ========================== */
+
 
     $(".featured-slider").slick({
         slidesToShow: 5,
@@ -86,9 +77,6 @@ $(document).ready(function () {
         ]
     });
 
-    /* ==========================
-       TESTIMONIALS
-    ========================== */
 
     $(".testimonial-slider").slick({
         slidesToShow: 1,
@@ -118,9 +106,6 @@ $(document).ready(function () {
         ]
     });
 
-    /* ==========================
-       COLLECTION CARD HOVER
-    ========================== */
 
     $(".collection-card").hover(
         function () {
