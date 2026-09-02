@@ -1,8 +1,7 @@
 Charlie Lux Home — Frontend Project
 
 A modern, responsive e-commerce frontend for a premium home décor brand. The project focuses on creating an elegant shopping experience with a clean layout, responsive design, product showcases, promotional banners, and interactive sliders.
-
-# **Live Url**: [https://dipan-dev.github.io/Frontend-Projects/](https://dipan-dev.github.io/Frontend-Projects/)
+ **Live Url**: [dipan-dev.github.io/Frontend-Projects/](https://dipan-dev.github.io/Frontend-Projects/)
 
 ✨ Features
 
